@@ -14,7 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-* Download or clone refer to CakePHP manual (https://book.cakephp.org/2.0/en/installation.html)
+* Download or clone extract into your web home directory 
+* refer to CakePHP manual (https://book.cakephp.org/2.0/en/installation.html) for installation
 * Database included
 
 ```
