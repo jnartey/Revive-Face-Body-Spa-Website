@@ -8,14 +8,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-A running webserver on your PC 
-PHP version 5.4 or 5.6
-MySQL 4+
+* A running webserver on your PC 
+* PHP version 5.4 or 5.6
+* MySQL 4+
 
 ### Installing
 
-Download or clone refer to CakePHP manual (https://book.cakephp.org/2.0/en/installation.html)
-Database included
+* Download or clone refer to CakePHP manual (https://book.cakephp.org/2.0/en/installation.html)
+* Database included
 
 ```
 /database
@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Fifth Light Media
+* Fifth Light Media LLc
