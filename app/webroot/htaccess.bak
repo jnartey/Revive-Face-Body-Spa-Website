@@ -1,0 +1,13 @@
+AddType image/svg+xml svg svgz
+AddEncoding gzip svgz
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+	
+	RewriteCond %{HTTP_HOST} !^www\.tigomusic\.com\.gh [NC]
+	RewriteRule ^(.*)$ http://www.tigomusic.com.gh/$1 [R=301,L]
+	
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>

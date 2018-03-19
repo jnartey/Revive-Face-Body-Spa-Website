@@ -1,0 +1,1 @@
+<?php echo $this->Html->link(__(($data['Category']['name']), true), array('controller'=> 'categories', 'action' => 'categories', 'action' => 'view', $data['Category']['id'], 'admin' => true)); ?>
