@@ -14,18 +14,12 @@ MySQL 4+
 
 ### Installing
 
-Download or clone 
+Download or clone refer to CakePHP manual (https://book.cakephp.org/2.0/en/installation.html)
+Database included
 
 ```
-Give the example
+/database
 ```
-
-And repeat
-
-```
-until finished
-```
-
 
 ## Running the tests
 
@@ -78,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* 
+* Fifth Light Media
