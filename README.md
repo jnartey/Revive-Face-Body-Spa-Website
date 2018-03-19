@@ -1,39 +1,81 @@
-CakePHP
-=======
+# Revive Face & Body Spa Website
 
-[![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
+Complete website with a custom CMS created from scratch using CakePHP a rapid and robust PHP MVC framework. Revive Face and Body Spa is a dedicated spa boutique, offering a range of esthetic, therapeutic and enhanced facials and body treatments that will revitalize and re-energize your skin and body.
 
-CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
-Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
+## Getting Started
 
-Some Handy Links
-----------------
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-[CakePHP](http://www.cakephp.org) - The rapid development PHP framework
+### Prerequisites
 
-[Cookbook](http://book.cakephp.org) - THE Cake user documentation; start learning here!
+A running webserver on your PC 
+PHP version 5.4 or 5.6
+MySQL 4+
 
-[Plugins](http://plugins.cakephp.org/) - A repository of extensions to the framework
+### Installing
 
-[The Bakery](http://bakery.cakephp.org) - Tips, tutorials and articles
+Download or clone 
 
-[API](http://api.cakephp.org) - A reference to Cake's classes
+```
+Give the example
+```
 
-[CakePHP TV](http://tv.cakephp.org) - Screen casts from events and video tutorials
+And repeat
 
-[The Cake Software Foundation](http://cakefoundation.org/) - promoting development related to CakePHP
+```
+until finished
+```
 
-Get Support!
-------------
 
-[Our Google Group](http://groups.google.com/group/cake-php) - community mailing list and forum
+## Running the tests
 
-[#cakephp](http://webchat.freenode.net/?channels=#cakephp) on irc.freenode.net - Come chat with us, we have cake.
+None
 
-[Q & A](http://ask.cakephp.org/) - Ask questions here, all questions welcome
+### Break down into end to end tests
 
-[Lighthouse](http://cakephp.lighthouseapp.com/) - Got issues? Please tell us!
+None
 
-[![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=master)](http://travis-ci.org/cakephp/cakephp)
+```
 
-![Cake Power](https://raw.github.com/cakephp/cakephp/master/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif)
+```
+
+### And coding style tests
+
+none
+
+```
+
+```
+
+## Deployment
+
+Refer to installation
+
+## Built With
+
+* [CakePHP 2.x](https://www.cakephp.org) - PHP MVC framework
+* [FancyBox](http://fancyapps.com/fancybox/) - Javascript framework
+* [JQuery](https://jquery.com/) - Javascript framework
+* [TweenMax](https://greensock.com/tweenmax) - Javascript framework from GreenSock
+* [Font Awesome](https://greensock.com/tweenmax) - Font Script
+* [Zurb Foundation](https://foundation.zurb.com/) - The most advanced responsive front-end framework
+
+## Contributing
+
+None
+
+## Versioning
+
+ 
+
+## Authors
+
+* **Jacob Nartey** - *Web Developer*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* 
