@@ -46,12 +46,12 @@ class EmailConfig {
 
 	public $smtp = array(
 		'transport' => 'Smtp',
-		'from' => array('jacob@fifthlightmedia.com' => 'SuperTech Ltd.'),
-		'host' => 'mail.supremecluster.com',
+		'from' => array('' => ''),
+		'host' => '',
 		'port' => 2525,
 		'timeout' => 30,
-		'username' => 'jacob@fifthlightmedia.com',
-		'password' => 'qwerty7755',
+		'username' => '',
+		'password' => '',
 		'client' => null,
 		'log' => false,
 		//'charset' => 'utf-8',
